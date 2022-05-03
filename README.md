@@ -22,6 +22,3 @@
   Github: ThatPaple
   Mail: thatpaple@gmail.com
 ````
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
