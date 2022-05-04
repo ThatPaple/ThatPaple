@@ -2,7 +2,7 @@
 > help --about
   Hey! I am ThatPaple.
   I am a Software Engineer student in the Netherlands!
-  Currently Learning : ['Python']
+  Currently Learning : ['Python', 'Unity']
 ````
 
 ````bash
