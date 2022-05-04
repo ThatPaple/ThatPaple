@@ -18,7 +18,6 @@
 ````bash
 > help --contact
     Discord: thatpaple#9995
-    Instagram: thatpaple
     Github: ThatPaple
     Mail: thatpaple@gmail.com
 ````
