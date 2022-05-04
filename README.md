@@ -1,7 +1,7 @@
 ````bash
 > help --about
     Hey! I am ThatPaple.
-    I am a Software Engineer student in the Netherlands!
+    I am a Software Engineering student in the Netherlands!
     Currently Learning : ['Python', 'Unity']
 ````
 
