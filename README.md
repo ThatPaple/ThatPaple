@@ -1,6 +1,6 @@
 ````bash
 > help --about
-    Hey! I am ThatPaple.
+    Hey! I am ThatPaple (they/them).
     I am a Software Engineering student in the Netherlands!
     Currently Learning : ['Python', 'Unity']
 ````
