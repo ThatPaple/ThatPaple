@@ -27,6 +27,6 @@
 > help --contact
     Discord: thatpaple#9995
     Github: ThatPaple
-    Mail: thatpaple@gmail.com.
+    Mail: thatpaple@gmail.com
     LinkedIn: Can be provided on request!
 ````
