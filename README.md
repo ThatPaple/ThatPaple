@@ -5,10 +5,10 @@
     Currently Learning : ['Python', 'Unity', 'PHP']
     
     Free time includes :
-        🚲 outdoors
-        🎼 music
-        💻 programming
-        🧾 community management
+        🚲 Outdoors
+        🎼 Music
+        💻 Programming
+        🧾 Community management
 ````
 
 ````bash
