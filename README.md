@@ -17,6 +17,8 @@
     Frontend Development : ['CSS3', 'HTML5', 'Bootstrap']    
     Backend Development : ['NodeJS']
     Database : ['PostgreSQL', 'MySQL']
+    Devops : ['Docker']
+    BaaS : ['Heroku']
     Operating Systems : ['Linux', 'Windows']
         #  I use(d) Arch btw!
 ````
