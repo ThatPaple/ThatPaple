@@ -1,10 +1,10 @@
 ````bash
 > help --about
-    Hey! I am ThatPaple (they/them).
+    Hey! I am ThatPaple (they/them)
     I am a Software Engineering student in the Netherlands!
-    Currently Learning : ['Python', 'Unity', 'PHP']
+    Currently Learning: ['Python', 'Unity', 'PHP']
     
-    Free time includes :
+    Free time includes:
         🚲 Outdoors
         🎼 Music
         💻 Programming
@@ -13,13 +13,13 @@
 
 ````bash
 > help --skills 
-    Programming Languages : ['Java', 'JavaScript']
-    Frontend Development : ['CSS3', 'HTML5', 'Bootstrap']    
-    Backend Development : ['NodeJS']
-    Database : ['PostgreSQL', 'MySQL']
-    Devops : ['Docker']
-    BaaS : ['Heroku']
-    Operating Systems : ['Linux', 'Windows']
+    Programming Languages: ['Java', 'JavaScript']
+    Frontend Development: ['CSS3', 'HTML5', 'Bootstrap']    
+    Backend Development: ['NodeJS']
+    Database: ['PostgreSQL', 'MySQL']
+    Devops: ['Docker']
+    BaaS: ['Heroku']
+    Operating Systems: ['Linux', 'Windows']
         #  I use(d) Arch btw!
 ````
 
@@ -28,5 +28,5 @@
     Discord: thatpaple#9995
     Github: ThatPaple
     Mail: thatpaple@gmail.com.
-    LinkedIn : Can be provided on request!
+    LinkedIn: Can be provided on request!
 ````
