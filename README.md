@@ -10,10 +10,6 @@
         💻 Programming
         🧾 Communities
 ````
-````bash
-> help --plans 
-    # The process of brainstorming begins, I have nothing planned.
-````
 
 ````bash
 > help --skills 
@@ -25,6 +21,11 @@
     BaaS: ['Heroku']
     Operating Systems: ['Linux', 'Windows']
         #  I use(d) Arch btw!
+````
+
+````bash
+> help --plans 
+    # The process of brainstorming begins, I have nothing planned.
 ````
 
 ````bash
