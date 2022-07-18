@@ -8,7 +8,7 @@
         🚲 Outdoors
         🎼 Music
         💻 Programming
-        🧾 Community management
+        🧾 Communities
 ````
 
 ````bash
