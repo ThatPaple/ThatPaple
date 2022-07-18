@@ -10,6 +10,10 @@
         💻 Programming
         🧾 Communities
 ````
+````bash
+> help --plans 
+    # The process of brainstorming begins, I have nothing planned.
+````
 
 ````bash
 > help --skills 
