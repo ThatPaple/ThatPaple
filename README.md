@@ -25,7 +25,7 @@
 
 ````bash
 > help --plans 
-    # The process of brainstorming begins, I have nothing planned.
+    Working on a project for The Bicyclists
 ````
 
 ````bash
