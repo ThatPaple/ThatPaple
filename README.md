@@ -1,3 +1,11 @@
+<div align="center">
+
+![Statistics](./github-metrics.svg)
+
+</div>
+
+
+<!--
 ````bash
 > help --about
     Hey! I am ThatPaple (they/them)
@@ -34,3 +42,4 @@
     Github: ThatPaple
     Mail: thatpaple@gmail.com
 ````
+-->
