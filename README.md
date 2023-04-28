@@ -1,6 +1,6 @@
 ````bash
 > help --about
-    Hey! I am ThatPaple (they/them)
+    Hey! I am ThatPaple
     I am a Software Engineering student in the Netherlands!
     Currently Learning: ['Python', 'Unity', 'PHP']
     
@@ -25,7 +25,9 @@
 
 ````bash
 > help --plans 
-    Working on a project for The Bicyclists
+    1. Working on a project for The Bicyclists
+    2. Mostly dedicating time towards Univeristy Project
+    3. Learning to use Godot engine
 ````
 
 ````bash
