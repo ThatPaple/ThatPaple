@@ -17,22 +17,21 @@
     Frontend Development: ['CSS3', 'HTML5', 'Bootstrap']    
     Backend Development: ['NodeJS']
     Database: ['PostgreSQL', 'MySQL']
-    Devops: ['Docker']
+    DevOps: ['Docker']
     BaaS: ['Heroku']
     Operating Systems: ['Linux', 'Windows']
         #  I use(d) Arch btw!
 ````
 
 ````bash
-> help --plans 
-    1. Working on a project for The Bicyclists
-    2. Mostly dedicating time towards Univeristy Project
-    3. Learning to use Godot engine
+> help --currently
+    1. Maintaining a project for The Bicyclists
+    2. Back in university
 ````
 
 ````bash
 > help --contact
-    Discord: thatpaple#9995
+    Discord: thatpaple (legacy : thatpaple#9995)
     Github: ThatPaple
     Mail: thatpaple@gmail.com
 ````
