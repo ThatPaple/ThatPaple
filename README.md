@@ -31,7 +31,7 @@
 
 ````bash
 > help --contact
-    Discord: thatpaple (legacy : thatpaple#9995)
+    Discord: thatjams (legacy : thatpaple#9995)
     Github: ThatPaple
     Mail: thatpaple@gmail.com
 ````
