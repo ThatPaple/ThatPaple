@@ -3,7 +3,7 @@ I am a Software Engineering student in the Netherlands!
 
 
 My account stats:
-> Joined Github **{{ ACCOUNT_AGE }}** years ago.
+>   - Joined Github **{{ ACCOUNT_AGE }}** years ago.
 >   - **{{ COMMITS }}** commits
 >   - **{{ ISSUES }}** issues opened
 >   - **{{ PULL_REQUESTS }}** pull requests submitted
@@ -23,4 +23,9 @@ Although, I am _(kind of)_ familiar with:
 >    **Database**: PostgreSQL, 'MySQL   
 >    **DevOps**: Docker   
 >    **BaaS**: Heroku   
->    **Operating Systems**: Linux, Windows, Android   
+>    **Operating Systems**: Linux, Windows, Android
+
+Contacts?
+> - Email: thatpaple@gmail.com
+> - Discord: thatjams
+> - GitHUB: ThatPaple
