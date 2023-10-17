@@ -13,7 +13,8 @@ My account stats:
 
 Most of the time, I use these languages:
 {{ LANGUAGE_TEMPLATE_START }}
->    - **{{ LANGUAGE_NAME }}** ({{ LANGUAGE_PERCENT }}%)   
+>    - **{{ LANGUAGE_NAME }}** ({{ LANGUAGE_PERCENT }}%)
+
 {{ LANGUAGE_TEMPLATE_END }}
 
 Although, I am _(kind of)_ familiar with:
