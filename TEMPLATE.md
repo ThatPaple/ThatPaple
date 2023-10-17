@@ -1,9 +1,8 @@
-Hi, I'm ThatPaple (Jams) 👋
-I am a Software Engineering student in the Netherlands!
-
+Hi, I'm ThatPaple (Jams) 👋   
+I am a Software Engineering student in the Netherlands!   
 
 My account stats:
->   - Joined Github **{{ ACCOUNT_AGE }}** years ago.
+>   - Joined Github **{{ ACCOUNT_AGE }}** years ago
 >   - **{{ COMMITS }}** commits
 >   - **{{ ISSUES }}** issues opened
 >   - **{{ PULL_REQUESTS }}** pull requests submitted
