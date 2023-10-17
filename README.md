@@ -4,7 +4,7 @@
     I am a Software Engineering student in the Netherlands!
     Currently Learning: ['Python', 'Unity', 'PHP']
     
-    Free time includes:
+    Free time includes: 
         🚲 Outdoors
         🎼 Music
         💻 Programming
