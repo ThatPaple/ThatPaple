@@ -1,4 +1,4 @@
-Hi, I'm ThatPaple (Jams)
+Hi, I'm ThatPaple (Jams) 👋
 I am a Software Engineering student in the Netherlands!
 
 
@@ -8,10 +8,10 @@ My account stats:
 >   - **{{ ISSUES }}** issues opened
 >   - **{{ PULL_REQUESTS }}** pull requests submitted
 >   - **{{ REPOSITORIES }}** personal projects
->   - **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+>   - **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories that I contributed to
 
 
-Most of the time, I use these languages:
+Most of the time, I use these languages (on GitHub):
 {{ LANGUAGE_TEMPLATE_START }}
 >    - **{{ LANGUAGE_NAME }}** ({{ LANGUAGE_PERCENT }}%)
 {{ LANGUAGE_TEMPLATE_END }}
