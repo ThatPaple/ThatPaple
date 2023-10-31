@@ -3,11 +3,11 @@ I am a Software Engineering student in the Netherlands!
 
 My account stats:
 >   - Joined Github **2** years ago
->   - **297** commits
+>   - **300** commits
 >   - **34** issues opened
->   - **13** pull requests submitted
+>   - **14** pull requests submitted
 >   - **18** personal projects
->   - **4** public repositories that I contributed to
+>   - **5** public repositories that I contributed to
 
 
 Most of the time, I use these languages (on GitHub):
