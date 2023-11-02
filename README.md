@@ -3,9 +3,9 @@ I am a Software Engineering student in the Netherlands!
 
 My account stats:
 >   - Joined Github **2** years ago
->   - **313** commits
+>   - **314** commits
 >   - **34** issues opened
->   - **16** pull requests submitted
+>   - **17** pull requests submitted
 >   - **18** personal projects
 >   - **5** public repositories that I contributed to
 
@@ -22,7 +22,7 @@ Although, I am _(kind of)_ familiar with:
 >    **Programming Languages**: Java/Kotlin, JavaScript/TypeScript   
 >    **Frontend Development**: CSS3, HTML5,  Bootstrap   
 >    **Backend Development**: NodeJS   
->    **Database**: PostgreSQL, 'MySQL   
+>    **Database**: PostgreSQL, MySQL   
 >    **DevOps**: Docker   
 >    **BaaS**: Heroku   
 >    **Operating Systems**: Linux, Windows, Android
@@ -30,4 +30,4 @@ Although, I am _(kind of)_ familiar with:
 Contacts?
 > - Email: thatpaple@gmail.com
 > - Discord: thatjams
-> - GitHUB: ThatPaple
+> - GitHub: ThatPaple
