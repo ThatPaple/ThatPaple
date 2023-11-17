@@ -3,7 +3,7 @@ I am a Software Engineering student in the Netherlands!
 
 My account stats:
 >   - Joined Github **2** years ago
->   - **331** commits
+>   - **332** commits
 >   - **34** issues opened
 >   - **19** pull requests submitted
 >   - **18** personal projects
@@ -19,15 +19,15 @@ Most of the time, I use these languages (on GitHub):
 >    - **GDScript** (0.2%)
 
 Although, I am _(kind of)_ familiar with:
->    **Programming Languages**: Java/Kotlin, JavaScript/TypeScript,    
->    **Frontend Development**: CSS3, HTML5, Bootstrap, PHP   
+>    **Programming Languages**: Java/Kotlin, JavaScript/TypeScript   
+>    **Frontend Development**: CSS3, HTML5,  Bootstrap   
 >    **Backend Development**: NodeJS   
->    **Database**: PostgreSQL, MySQL  
+>    **Database**: PostgreSQL, MySQL   
 >    **DevOps**: Docker   
 >    **BaaS**: Heroku   
->    **Operating Systems**: Linux, Windows, Android  
+>    **Operating Systems**: Linux, Windows, Android
 
 Contacts?
-> - Email: thatpaple@gmail.com   
-> - Discord: thatjams   
-> - GitHub: ThatPaple   
+> - Email: thatpaple@gmail.com
+> - Discord: thatjams
+> - GitHub: ThatPaple
