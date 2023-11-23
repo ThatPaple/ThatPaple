@@ -3,9 +3,9 @@ I am a Software Engineering student in the Netherlands!
 
 My account stats:
 >   - Joined Github **2** years ago
->   - **333** commits
+>   - **342** commits
 >   - **34** issues opened
->   - **19** pull requests submitted
+>   - **23** pull requests submitted
 >   - **18** personal projects
 >   - **5** public repositories that I contributed to
 
