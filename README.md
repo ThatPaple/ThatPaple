@@ -3,18 +3,19 @@ I am a Software Engineering student in the Netherlands!
 
 My account stats:
 >   - Joined Github **2** years ago
->   - **354** commits
+>   - **356** commits
 >   - **35** issues opened
 >   - **32** pull requests submitted
->   - **18** personal projects
+>   - **19** personal projects
 >   - **5** public repositories that I contributed to
 
 
 Most of the time, I use these languages (on GitHub):
->    - **JavaScript** (63.7%)
->    - **Python** (24.9%)
+>    - **JavaScript** (63.3%)
+>    - **Python** (24.7%)
 >    - **Java** (5.8%)
 >    - **GLSL** (4.7%)
+>    - **TeX** (0.5%)
 >    - **Batchfile** (0.4%)
 >    - **GDScript** (0.2%)
 
