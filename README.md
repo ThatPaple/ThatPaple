@@ -6,19 +6,19 @@ My account stats:
 >   - **408** commits
 >   - **35** issues opened
 >   - **34** pull requests submitted
->   - **20** personal projects
->   - **5** public repositories that I contributed to
+>   - **19** personal projects
+>   - **6** public repositories that I contributed to
 
 
 Most of the time, I use these languages (on GitHub):
->    - **JavaScript** (51.7%)
->    - **Python** (20.2%)
->    - **TypeScript** (17.6%)
->    - **Java** (4.7%)
->    - **GLSL** (3.8%)
->    - **HTML** (0.5%)
->    - **TeX** (0.4%)
->    - **Other** (0.7%)
+>    - **JavaScript** (64.8%)
+>    - **TypeScript** (22.1%)
+>    - **Java** (5.9%)
+>    - **GLSL** (4.8%)
+>    - **HTML** (0.6%)
+>    - **TeX** (0.5%)
+>    - **Batchfile** (0.4%)
+>    - **Other** (0.4%)
 
 Although, I am _(kind of)_ familiar with:
 >    **Programming Languages**: Java/Kotlin, JavaScript/TypeScript   
