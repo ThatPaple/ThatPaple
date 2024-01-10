@@ -5,7 +5,7 @@ My account stats:
 >   - Joined Github **2** years ago
 >   - **408** commits
 >   - **35** issues opened
->   - **34** pull requests submitted
+>   - **35** pull requests submitted
 >   - **19** personal projects
 >   - **6** public repositories that I contributed to
 
