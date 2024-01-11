@@ -3,7 +3,7 @@ I am a Software Engineering student in the Netherlands!
 
 My account stats:
 >   - Joined Github **2** years ago
->   - **408** commits
+>   - **484** commits
 >   - **35** issues opened
 >   - **35** pull requests submitted
 >   - **19** personal projects
