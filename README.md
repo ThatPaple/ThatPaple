@@ -7,7 +7,7 @@ My account stats:
 >   - **35** issues opened
 >   - **35** pull requests submitted
 >   - **19** personal projects
->   - **6** public repositories that I contributed to
+>   - **5** public repositories that I contributed to
 
 
 Most of the time, I use these languages (on GitHub):
