@@ -11,7 +11,7 @@
 
 ```bash
 > paps -stats
-      478 commits
+      479 commits
       34 issues
       33 PRs
       20 repos
@@ -21,20 +21,20 @@
 
 ```bash
 > paps -languages -git -P
-      JavaScript > (63.6%)
-      TypeScript > (21.7%)
-      Java > (5.8%)
-      GLSL > (4.7%)
-      CSS > (1.8%)
-      HTML > (0.6%)
-      TeX > (0.5%)
-      Other > (0.9%)
+      JavaScript > 63.6%
+      TypeScript > 21.7%
+      Java > 5.8%
+      GLSL > 4.7%
+      CSS > 1.8%
+      HTML > 0.6%
+      TeX > 0.5%
+      Other > 0.9%
 ```
 
 
 ```bash
 > paps -languages -explored
-      I am _(kind of)_ familiar with:
+      I am kind of familiar with:
       Programming Languages: ['Java/Kotlin', 'JavaScript/TypeScript']   
       Frontend Development: ['CSS3', 'HTML5',  'Bootstrap']   
       Backend Development: ['NodeJS']   
