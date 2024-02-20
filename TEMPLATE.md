@@ -22,14 +22,14 @@
 ```bash
 > paps -languages -git -P
 {{ LANGUAGE_TEMPLATE_START }}
-      {{ LANGUAGE_NAME }} > ({{ LANGUAGE_PERCENT }}%)
+      {{ LANGUAGE_NAME }} > {{ LANGUAGE_PERCENT }}%
 {{ LANGUAGE_TEMPLATE_END }}
 ```
 
 
 ```bash
 > paps -languages -explored
-      I am _(kind of)_ familiar with:
+      I am kind of familiar with:
       Programming Languages: ['Java/Kotlin', 'JavaScript/TypeScript']   
       Frontend Development: ['CSS3', 'HTML5',  'Bootstrap']   
       Backend Development: ['NodeJS']   
