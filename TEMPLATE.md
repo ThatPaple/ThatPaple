@@ -11,30 +11,32 @@
 
 ```bash
 > paps -stats
-      **{{ COMMITS }}** commits
-      **{{ ISSUES }}** issues
-      **{{ PULL_REQUESTS }}** PRs
-      **{{ REPOSITORIES }}** repos
-      **{{ REPOSITORIES_CONTRIBUTED_TO }}** contributions   
+      {{ COMMITS }} commits
+      {{ ISSUES }} issues
+      {{ PULL_REQUESTS }} PRs
+      {{ REPOSITORIES }} repos
+      {{ REPOSITORIES_CONTRIBUTED_TO }} contributions   
 ```
 
-{{ LANGUAGE_TEMPLATE_START }}
+
 ```bash
 > paps -languages -git -P
-   {{ LANGUAGE_NAME }} > ({{ LANGUAGE_PERCENT }}%)
-```
+{{ LANGUAGE_TEMPLATE_START }}
+      {{ LANGUAGE_NAME }} > ({{ LANGUAGE_PERCENT }}%)
 {{ LANGUAGE_TEMPLATE_END }}
+```
+
 
 ```bash
 > paps -languages -explored
       I am _(kind of)_ familiar with:
-      **Programming Languages**: ['Java/Kotlin', 'JavaScript/TypeScript']   
-      **Frontend Development**: ['CSS3', 'HTML5',  'Bootstrap']   
-      **Backend Development**: ['NodeJS']   
-      **Database**: ['PostgreSQL', 'MySQL']   
-      **DevOps**: ['Docker']   
-      **BaaS**: ['Heroku']   
-      **Operating Systems**: ['Linux', 'Windows', 'Android']
+      Programming Languages: ['Java/Kotlin', 'JavaScript/TypeScript']   
+      Frontend Development: ['CSS3', 'HTML5',  'Bootstrap']   
+      Backend Development: ['NodeJS']   
+      Database: ['PostgreSQL', 'MySQL']   
+      DevOps: ['Docker']   
+      BaaS: ['Heroku']   
+      Operating Systems: ['Linux', 'Windows', 'Android']
 ```
 ```bash
 > paps -contacts
