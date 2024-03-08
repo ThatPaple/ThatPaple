@@ -11,10 +11,10 @@
 
 ```bash
 > paps -stats
-      487 commits
+      488 commits
       34 issues
       33 PRs
-      20 repos
+      21 repos
       5 contributions   
 ```
 
