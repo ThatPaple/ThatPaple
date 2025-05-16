@@ -1,7 +1,6 @@
 ````bash
 > paps -about
       Hey! I am ThatPaple (Jams)
-      I am a Software Engineering student in the Netherlands!
       Free time includes:
          🚲 Outdoors
          🎼 Music
