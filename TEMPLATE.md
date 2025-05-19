@@ -1,6 +1,6 @@
 ````bash
 > paps -about
-      Hey! I am ThatPaple (Jams)
+      Hey! I am ThatPaple (Jams) 
       Free time includes:
          🚲 Outdoors
          🎼 Music
