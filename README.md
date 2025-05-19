@@ -1,7 +1,6 @@
 ````bash
 > paps -about
-      Hey! I am ThatPaple (Jams)
-      I am a Software Engineering student in the Netherlands!
+      Hey! I am ThatPaple (Jams) 
       Free time includes:
          🚲 Outdoors
          🎼 Music
@@ -11,17 +10,17 @@
 
 ```bash
 > paps -stats
-      493 commits
+      497 commits
       34 issues
       33 PRs
       21 repos
-      7 contributions   
+      0 contributions   
 ```
 
 
 ```bash
 > paps -languages -git -P
-      JavaScript > 63.6%
+      JavaScript > 63.7%
       TypeScript > 21.7%
       Java > 5.8%
       GLSL > 4.7%
