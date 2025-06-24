@@ -10,24 +10,24 @@
 
 ```bash
 > paps -stats
-      497 commits
+      501 commits
       34 issues
       33 PRs
-      21 repos
+      22 repos
       0 contributions   
 ```
 
 
 ```bash
 > paps -languages -git -P
-      JavaScript > 63.7%
-      TypeScript > 21.7%
-      Java > 5.8%
-      GLSL > 4.7%
-      CSS > 1.8%
-      HTML > 0.6%
-      TeX > 0.5%
-      Other > 0.9%
+      JavaScript > 57.3%
+      TypeScript > 19.5%
+      PHP > 6.8%
+      Java > 5.2%
+      CSS > 4.8%
+      GLSL > 4.2%
+      HTML > 0.5%
+      Other > 1.3%
 ```
 
 
